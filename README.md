@@ -18,4 +18,5 @@
 
  Balanced layout and cleaner spacing
 
-
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/808eef12-3724-41ba-bc5d-04c1edcb4899)
